@@ -8,9 +8,13 @@ models/: Folder to save trained models.
 README.md: This file providing an overview of the project.
 # Features
 Data Preprocessing: Tokenization, stopword removal, and vectorization (e.g., TF-IDF) to prepare the SMS messages for training.
+
 Model Training: Trained with various models such as Naive Bayes, Support Vector Machines (SVM), and Logistic Regression.
+
 Evaluation: Precision, recall, F1-score, and accuracy metrics are used to evaluate model performance.
+
 Model Inference: A simple function that allows classifying new SMS messages as spam or not spam.
+
 Getting Started
 # Prerequisites
 Python 3.x
