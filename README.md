@@ -15,13 +15,19 @@ Evaluation: Precision, recall, F1-score, and accuracy metrics are used to evalua
 
 Model Inference: A simple function that allows classifying new SMS messages as spam or not spam.
 
-Getting Started
+
 # Prerequisites
 Python 3.x
+
 Jupyter Notebook
+
 Required Python libraries:
+
 pandas
+
 scikit-learn
+
 nltk
+
 matplotlib
-Install dependencies using:
+
